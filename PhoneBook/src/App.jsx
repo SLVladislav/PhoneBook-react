@@ -1,12 +1,9 @@
 
 
-
-
 function App() {
-
   return (
     <>
-     Heoll
+      Heoll
     </>
   )
 }
